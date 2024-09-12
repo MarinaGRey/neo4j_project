@@ -1,5 +1,7 @@
 # Neo4j Movie and Galaxy Network Graph Database
 
+This project was made in collaboration with [mariamagro](https://github.com/mariamagro) for the Databases subject in the Carlos III university.
+
 This project focuses on creating and querying a graph database using Neo4j. The database models both a fictional galaxy with planets and political affiliations, and a network of people, movies, and their relationships.
 
 ## 📋 Table of Contents
